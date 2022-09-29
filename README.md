@@ -15,7 +15,7 @@
 ### *Description*
 - This repository is is being created in order to begin to understand how to use Github and all of its features. I also created this repository in order to showcase how to use some of Github's simpler features. 
 
-### *How to run program*
+### *How to run this program*
 - Explain here how you would run the program. 
 
 ### *Files Used*
@@ -25,8 +25,8 @@
 -         What is contained within the data files?
 -           Datafile considerations
 
-### *Additional Documentation*
+### *More Documentation*
 - ~None~
 
-### *Versioning*
+### *Versioning Within the Application*
 - Any versioning used
