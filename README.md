@@ -19,11 +19,11 @@
 - Explain here how you would run the program. 
 
 ### *Files Used*
-- Did you use any datafiles?
-- List filenames
-- Where you got them
-- What is contained within the data files?
-- Datafile considerations
+-   Did you use any datafiles?
+-     List filenames
+-       Where you got them
+-         What is contained within the data files?
+-           Datafile considerations
 
 ### *Additional Documentation*
 - ~None~
